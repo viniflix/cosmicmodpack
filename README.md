@@ -8,20 +8,6 @@ It was created to provide a rich multiplayer experience with custom systems, eve
 
 ---
 
-## 🚀 What’s in the Pack?
-
-- **STS** (Sell To Server): Predefined prices for selling Pokémon
-- **GTS**: Trade Pokémon with other players
-- **Hunt**: Track and catch specific Pokémon to earn rewards
-- **PokéBuilder**: Use tokens to enhance your Pokémon
-- **Battle Pass**: Unlock exclusive rewards by completing tasks
-- **Playtime Rewards**: Get bonuses for being online
-- **Boosters, Lucky Blocks, Crates**
-- **Weekly Tournaments with Great Prizes**
-- **Exclusive VIP Benefits and Cosmetics**
-
----
-
 ## 📥 Installation
 
 You can install the modpack using any launcher that supports `.mrpack` files, such as:
